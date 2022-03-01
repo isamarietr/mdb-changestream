@@ -8,7 +8,8 @@
 
 ## Configure connection string
 
-Rename `sample.env` and change the value of the connection string to point to your cluster using the following format: `mongodb+srv://<username>:<password>@<hostname>`
+1. Copy or rename `sample.env` to `.env` 
+2. Change the value of the connection string to point to your cluster using the following format: `mongodb+srv://<username>:<password>@<hostname>`
 
 ## Start Change Stream
 
